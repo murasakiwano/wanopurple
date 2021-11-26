@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/johannh22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johannh22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannh22&langs_count=7&layout=compact&theme=dracula&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannh22&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jojo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
